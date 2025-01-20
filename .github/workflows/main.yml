@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - name: Check out repository code
-      - run: echo "hello_world"
+        run: echo "hello world"
